@@ -1,4 +1,5 @@
-**Nashville City Cemetery Marketing Project - Work In Progress (Excel Pivot Tables, Charts)**
+## Nashville City Cemetery Marketing Project 
+**Work In Progress (Excel Pivot Tables, Charts)**
 
 *Notes from Lori Butler, 4/24/2020:  This was a project for Nashville Software School's Data Analytics (full time) program. It was our first use of Excel pivot tables.*   
 
